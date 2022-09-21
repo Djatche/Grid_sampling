@@ -9,4 +9,7 @@ Quelques métriques pouvant être estimées en utilisant ce type d'échantillonn
 
 Les données utilisées dans cet article:     
 - Les shapefiles des aires de santé de NGAMBE TIKAR
-- Les shapefiles des zones habitables digitalisés par nos soins à partir de Google Earth
+- Les shapefiles des zones habitables digitalisés par nos soins à partir de Google Earth     
+
+
+Les lignes qui suivent nous permettent de réaliser un échantillonnage aléatoire à l'aide de la grille d'échantillonnage. Les outils de GIS et de datascience ont été utilisés.
